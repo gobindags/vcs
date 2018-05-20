@@ -1,1 +1,2 @@
-#modified for master
+#added test for v1beta2
+
